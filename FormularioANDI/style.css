@@ -14,6 +14,7 @@
 
 .container{
     margin-top: 5%;
+  
 }
 
 body{
@@ -29,9 +30,18 @@ h4{
     margin-top: 20px;
     margin-bottom: 20px;
     width: 100%;
+    box-shadow: 2px 2px 5px 0 black;
 }
 
 
 .form-check-input{
 margin-left: 50PX;
 }
+
+.dorado{
+    background-color: #ddb103;
+    height: 10px;
+    box-shadow: 2px 2px 15px 0 black;
+    
+}
+
